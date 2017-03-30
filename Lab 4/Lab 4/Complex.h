@@ -46,7 +46,7 @@ public:
 
    //Returns a Complex object that stores the value of the complex 
    //conjugate of the complex number that the function calls.
-   Complex conjugate() const;
+   Complex conjugate() const;                      
 
    //Returns a Complex object equal to the complex product of two
    //Complex numbers. (a x c - b x d) + (a x d + c x b)i

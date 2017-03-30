@@ -46,7 +46,7 @@ int main() {
 void compareComplex(Complex first, const Complex& second) {
    cout << first.equals(second) << endl;
 }//close compareComplex
-
+                                                      
 /*Output
 1. Annotate each line of text from your output:
 
