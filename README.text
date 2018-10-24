@@ -1,5 +1,5 @@
-# Constructor_Criticism
 Project Overview:
+
 More fun with imaginary numbers.
 
 This program is an expansion from the previous project Get_Real. As in the older project, you can create complex numbers, change complex number values, print out a complex number, multiply complex numbers together, determine the absolute value of a complex number, and check a complex number for equality with another complex number. 
