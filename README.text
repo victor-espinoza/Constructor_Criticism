@@ -1,7 +1,5 @@
 Project Overview:
 
-More fun with imaginary numbers.
-
 This program is an expansion from the previous project Get_Real. As in the older project, you can create complex numbers, change complex number values, print out a complex number, multiply complex numbers together, determine the absolute value of a complex number, and check a complex number for equality with another complex number. 
 
 This lab has added some functions and text outputs whenever a complex object is constructed, destructed, conjugated, mutated, copied, etc. This way, I can track the flow throughout the program and make sure that I understand exactly what is happening to the Complex objects being created.
